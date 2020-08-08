@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8f6539b-d1e7-4f5b-9f95-bf24157bb45c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1flX8mt87sqONStgO0LGiqaopag" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PBO-master" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8f6539b-d1e7-4f5b-9f95-bf24157bb45c" name="Default Changelist" comment="" />
+      <created>1596793495790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596793495790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596807498161">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="174" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1596807498161" />
+    <state x="568" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596793529145">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="568" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.870@0.0.1440.870" timestamp="1596793529145" />
+    <state x="500" y="190" key="FileChooserDialogImpl" timestamp="1596807497373">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="500" y="190" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1596807497373" />
+    <state x="416" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1596803472916">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="416" y="259" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1596803472916" />
+  </component>
+</project>
